@@ -12,4 +12,8 @@ public class Test {
         System.out.println("hello world!");
     }
 
+    // 我是分支
+    public void test() {
+
+    }
 }
