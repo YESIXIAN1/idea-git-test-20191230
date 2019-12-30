@@ -7,6 +7,7 @@ package com.freemypay.git;
  * TIME: 15:18
  */
 public class Test {
+    // 我是master，我要测试分支
     public static void main(String[] args) {
         System.out.println("hello world!");
     }
