@@ -7,4 +7,7 @@ package com.freemypay.git;
  * TIME: 17:03
  */
 public class Customer {
+    public void test() {
+        System.out.println("我是分支");
+    }
 }
