@@ -11,4 +11,7 @@ public class Customer {
         System.out.println("我是Master");
     }
 
+    public void test() {
+        System.out.println("我是分支");
+    }
 }
