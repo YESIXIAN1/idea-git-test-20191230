@@ -7,4 +7,8 @@ package com.freemypay.git;
  * TIME: 17:03
  */
 public class Customer {
+    public static void main(String[] args) {
+        System.out.println("我是Master");
+    }
+
 }
